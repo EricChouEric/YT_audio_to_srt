@@ -1,5 +1,8 @@
 # YouTube 字幕生成與校正工具
 
+## 架構
+![image](https://github.com/EricChouEric/YT_audio_to_srt/blob/main/img/Framework.png)
+
 ## 簡介
 此專案包含兩個主要資料夾：
 
