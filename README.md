@@ -73,6 +73,7 @@ project_root/
 │   ├── srt_tool.app
 │   ├── capy.ico
 └── README.md
+└── requirements.txt
 ```
 
 ## 注意事項
